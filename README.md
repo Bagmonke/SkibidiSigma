@@ -1,2 +1,0 @@
-# SkibidiSigma
-Skibidi Sigma
